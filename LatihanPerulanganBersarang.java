@@ -4,10 +4,7 @@
  */
 package loopwhile;
 import java.util.Scanner;
-/**
- *
- * @author izzaa
- */
+
 public class LatihanPerulanganBersarang {
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
